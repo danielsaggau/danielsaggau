@@ -6,7 +6,7 @@ Right now i am working on projects about:
 
 * :roller_coaster: Fairness in Machine Learning through Causal Inference 
 * :mouse2: Unsupervised Learning for Genomics 
-* :hourglass_flowing_sand: Domain Adapation in Deep Learning based NLP Models
+* :hourglass_flowing_sand: Domain Adapation in Deep Learning-based NLP Models
 
 <!--
 **danielsaggau/danielsaggau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
