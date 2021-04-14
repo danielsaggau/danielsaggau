@@ -1,6 +1,6 @@
 ### Welcome to my Github Page 👋
 
-I am a :de: / :south_africa: graduate Student :man_student:, studying Statistics at LMU in Munich. 
+I am a :de: / :south_africa: graduate Student, studying Statistics at LMU in Munich. 
 Predominately, I am interested in Applied NLP, Causal Inference and Machine Learning .
 Right now i am working on projects about: 
 
