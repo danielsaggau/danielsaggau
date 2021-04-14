@@ -9,6 +9,13 @@ Right now I am working on projects related to:
 * :briefcase: Domain Adapation in Deep Learning-based NLP Models for Legal Texts
 * :brain: The Efficiency of Mental Health Services
 
+### Contact 
+
+You can contact me via: 
+
+:email: daniel.saggau@campus.lmu.de`
+
+
 <!--
 **danielsaggau/danielsaggau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
