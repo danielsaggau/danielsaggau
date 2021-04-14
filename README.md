@@ -2,7 +2,7 @@
 
 I am a :de: / :south_africa: graduate Student, studying Statistics at LMU in Munich. 
 Predominately, I am interested in Applied NLP, Causal Inference and Machine Learning .
-Right now I am working on projects about: 
+Right now I am working or providing research assistance on projects related to: 
 
 * :roller_coaster: Fairness in Machine Learning through Causal Inference 
 * :mouse2: Unsupervised Learning for Genomics 
