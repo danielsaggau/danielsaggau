@@ -5,7 +5,7 @@ Predominately, I am interested in Applied NLP, Causal Inference and Machine Lear
 Right now I am working on projects related to: 
 
 * :roller_coaster: Fairness in Machine Learning through Causal Inference 
-* :mouse2: Unsupervised Learning for Genomics 
+* :mouse2: Unsupervised Learning for Genomic Data
 * :hourglass_flowing_sand: Domain Adapation for Deep Learning-based NLP Models
 * :brain: The Efficiency of Mental Health Services
 
