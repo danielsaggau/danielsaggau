@@ -13,7 +13,7 @@ Right now I am working on projects related to:
 
 You can contact me via: 
 
-:email: daniel.saggau@campus.lmu.de`
+:email: `daniel.saggau@campus.lmu.de`
 
 
 <!--
