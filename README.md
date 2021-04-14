@@ -4,9 +4,9 @@ I am a :de: / :south_africa: graduate Student, studying Statistics at LMU in Mun
 Predominately, I am interested in Applied NLP, Causal Inference and Machine Learning .
 Right now I am working on projects related to: 
 
-* :roller_coaster: Fairness in Machine Learning through Causal Inference 
+* :robot: Fairness in Machine Learning through Causal Inference 
 * :mouse2: Unsupervised Learning for Genomic Data
-* :hourglass_flowing_sand: Domain Adapation in Deep Learning-based NLP Models for Legal Texts
+* :briefcase: Domain Adapation in Deep Learning-based NLP Models for Legal Texts
 * :brain: The Efficiency of Mental Health Services
 
 <!--
