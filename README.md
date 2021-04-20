@@ -1,7 +1,7 @@
 ### Welcome to my Github Page :wave:
 
 I am a :de: / :south_africa: graduate Student, studying Statistics at LMU in Munich. 
-Predominately, I am interested in Applied NLP, Causal Inference and Machine Learning.
+Predominately, I am interested in Applied NLP, Causal Inference and Unsupervised Learning.
 Right now I am working on projects related to: 
 
 * :robot: Fairness in Machine Learning through Causal Inference 
