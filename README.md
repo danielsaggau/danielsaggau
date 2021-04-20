@@ -1,4 +1,4 @@
-### Welcome to my Github Page 👋
+### Welcome to my Github Page :wave:
 
 I am a :de: / :south_africa: graduate Student, studying Statistics at LMU in Munich. 
 Predominately, I am interested in Applied NLP, Causal Inference and Machine Learning.
