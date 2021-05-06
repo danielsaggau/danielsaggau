@@ -6,7 +6,7 @@ Right now I am working on projects related to:
 
 * :robot: Fairness in Machine Learning through Causal Modelling 
 * :mouse2: Unsupervised Learning for Genomic Data
-* :briefcase: Domain Adapation in Deep Learning-based NLP Models
+* :briefcase: Deep Learning-based NLP Models
 * :brain: The Efficiency of Mental Health Services
 
 You can contact me via: 
