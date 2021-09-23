@@ -7,6 +7,7 @@ You can contact me via:
 
 :email: `daniel.saggau@campus.lmu.de`
 
+[LinkedIn]:https://www.linkedin.com/in/daniel-saggau-84ab32138/
 
 <!--
 **danielsaggau/danielsaggau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
