@@ -1,6 +1,6 @@
 ### Welcome to my Github Page :wave:
 
-I am a :de: / :south_africa: graduate Student, studying Statistics at LMU in Munich. I am interested in causality and generative models.
+I am a :de: / :south_africa: graduate Student, studying Statistics at LMU in Munich. I am interested in causality, deep learning and generative models.
 
 
 You can contact me via: 
