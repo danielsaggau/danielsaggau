@@ -1,6 +1,6 @@
 ### Welcome to my Github Page :wave:
 
-I am a :de: / :south_africa: graduate Student, studying Statistics at LMU in Munich. I am interested in causality, deep metric learning and self-supervised learning.
+I am a :de: / :south_africa: graduate Student, studying Statistics at LMU in Munich. I am interested in causality and self-supervised learning.
 
 
 You can contact me via: 
